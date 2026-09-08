@@ -1,0 +1,11 @@
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE
+.vscode/
+.idea/
+
+# OS generated
+.DS_Store
